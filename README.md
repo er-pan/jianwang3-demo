@@ -1,0 +1,1 @@
+该项目由HTML+CSS+JavaScript+Jquery+Animate.css完成，是在学习完jQuery后完成的，项目中使用到了雪碧图、jQuery中的animate、以及动画库Animate.css
